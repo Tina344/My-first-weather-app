@@ -63,14 +63,15 @@ main {
 }
 .weather-app-value {
   font-size: 88px;
-  font-weight: bold;
+  line-height: 88px;
+   font-weight: bold;
 }
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 22px;
+  font-size: 88px;
+  margin-top: 88px;
 }
 .weather-app-unit {
-  margin-top: 16px;
+  margin-top: 6px;
   font-size: 28px;
 }
 footer
